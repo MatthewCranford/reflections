@@ -1,0 +1,9 @@
+Q.
+What happens when you initialize a repository? Why do you need to do it?
+A.
+Allow the use of git and all it's functionality.
+
+Q.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+A.
+Separates changes you made to your code at the time of commit
