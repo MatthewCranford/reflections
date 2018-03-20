@@ -22,3 +22,8 @@ Q.
 How do the diagrams help you visualize the branch structure?
 A.
 Let's you know exactly what's reachable and where commits fall in the tree diagram.
+
+Q.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A.
+To see which two branches join together. Merging branches results in a single branch with both combined changes.
