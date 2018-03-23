@@ -8,3 +8,8 @@ Q.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A.
 So work doesn't get shifted from underneath your feet. 
+
+Q.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A.
+forks create a version you can change and request those changes to main repo. Clones create a copy of repo that can be changed, but you wont have permission to push those changes. A branch can be used in both and is a way to create an abstraction of what your working on. Clones can be used for personal use, while fork if you intent to contribute to the project. Branches should be used anytime you want to diverge directions of your code without harming the working code.
