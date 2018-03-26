@@ -18,3 +18,8 @@ Q.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 A.
 Useful when going offline, you have a working version of the current state of the code.
+
+Q.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A.
+You could share multiple different codes and manually connect the changes. This is easier than dealing with all the git commands, but FAR more difficult manually handling all the changes without breaking the code.
