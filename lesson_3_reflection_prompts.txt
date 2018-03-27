@@ -23,3 +23,8 @@ Q.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A.
 You could share multiple different codes and manually connect the changes. This is easier than dealing with all the git commands, but FAR more difficult manually handling all the changes without breaking the code.
+
+Q.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A.
+While easier to make all changes within master, separating feature changes allow freedom of experimentation without breaking the build.
